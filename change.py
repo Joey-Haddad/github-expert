@@ -1,3 +1,3 @@
 x = "change"
 
-print (x + " good")
+print (x + " bad")
