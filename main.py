@@ -5,5 +5,5 @@ lis4 = [1, 2, 3, 4, 5]
 for i in lis4:
     x += i
 
-print("joey rocks")
+print("joey sucks")
 

@@ -1,3 +1,3 @@
 x = "change"
 
-print (x + " bad")
+print (x + " wl")
